@@ -1,1 +1,2 @@
 The training is so slow! I am about to fall asleep - send help!
+Line appended using cat command.
