@@ -1,3 +1,4 @@
 Hello World!
 My first class
 Hello class!
+Master edit, 4th line
